@@ -1,2 +1,2 @@
-# fin_cool_tea2
+# longjing-tea
 Basic demonstration app
