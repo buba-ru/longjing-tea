@@ -12,7 +12,15 @@
   },
   "dependencies": {
     "tea-demonstration": "1.0.0",
-    "minti_fulkerson": "0.1.4"
+    "minti_fulkerson": "0.1.4",
+    "starknet-combine": "1.0.0",
+    "teaoolon": "1.0.0",
+    "curryd224-uuid-utils": "1.0.0",
+    "jessicamogel03-random-array": "1.0.0",
+    "kamidpavil-password-utils": "1.0.0",
+    "mandytrowbridge260-date-time": "1.0.0",
+    "puytaupojahrjoy-random": "1.0.0",
+    "vadimtk1-array": "1.0.0"
   },
   "author": "buba-ru",
   "license": "ISC",
